@@ -1,5 +1,5 @@
-Bootstrap: docker
-From: spellrun/dynet
+Bootstrap:docker
+From:spellrun/dynet
 
 %post
    # in-container bind points for shared filesystems
